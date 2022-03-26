@@ -241,3 +241,19 @@ label {
   font-size: 0.75rem;
   color: #FFF;
 }
+
+.sucesspage {
+  padding-top: 30px;
+}
+
+#backToHomepage {
+  color: #FFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#backToHomepage:hover {
+  color: #ff4c68;
+  background-color: transparent;
+  text-decoration: none;
+}
