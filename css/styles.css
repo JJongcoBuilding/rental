@@ -169,6 +169,23 @@ margin-bottom: 10px;
   margin-right: auto;
 }
 
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: #ff4c68;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  top: calc(50% - 25px);
+  opacity: .8;
+}
+
+.carousel-control-prev {
+  left: 2%;
+}
+.carousel-control-next {
+  right: 2%;
+}
+
 /* LOCATION */
 .googlemap {
     width: 100%;
